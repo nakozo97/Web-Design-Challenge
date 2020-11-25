@@ -1,0 +1,17 @@
+#logo {
+    background: #4AA09B;
+    color: white;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background: grey;
+}
+.text-box {
+    background: white;
+    padding: 10px;
+}
+h2 {
+    color:#4AA09B;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
