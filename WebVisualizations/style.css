@@ -1,9 +1,9 @@
 #logo {
-    background: #4AA09B;
+    background-color: #4AA09B;
     color: white;
     margin-left: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 10px;  
+    padding: 10px;
 }
 body {
     background: lightgrey;
@@ -23,6 +23,7 @@ h2 {
 h5 {
     color:#4AA09B;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 .navbar {
     padding: 10px;
@@ -51,11 +52,15 @@ h5 {
       padding: 10px;
     }
     button{
-      margin-right: 60px;
+      margin-right: 75px;
     }
   
     .navbar-light .navbar-toggler {
       color: #888888;
       border-color: white;
+    }
+    .container{
+      width: 1024px;
+      margin: 0 auto;
     }
   }
