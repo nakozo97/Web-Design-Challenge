@@ -5,7 +5,7 @@ This assignment contains the following:
 
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
-  * Links to each visualizations page [ Max Temperature, Humidity, Cloudiness, Wind Speed ]
+  * Links to each visualizations page [ Max Temperature, Humidity, Cloudiness, Wind Speed ].
 
 * Four [visualization pages](#visualization-pages), each with:
   * A descriptive title and heading tag.
